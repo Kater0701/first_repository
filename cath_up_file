@@ -1,6 +1,5 @@
 from pygame import *
-#! abc
-#TODO abc
+
 window = display.set_mode((700, 500))
 display.set_caption('Догонялки')
 clock = time.Clock()
